@@ -1,0 +1,9 @@
+{
+  "name": "tslang",
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
